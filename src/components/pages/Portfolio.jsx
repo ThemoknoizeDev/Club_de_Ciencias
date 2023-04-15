@@ -3,7 +3,7 @@ import { Heading } from "../common/Heading"
 import { portfolio } from "../data/dummydata"
 import VisibilityOutlinedIcon from "@mui/icons-material/VisibilityOutlined"
 
-const allCategory = ["all", ...new Set(portfolio.map((item) => item.category))]
+const allCategory = ["todos", ...new Set(portfolio.map((item) => item.category))]
 export const Portfolio = () => {
   const [list, setLists] = useState(portfolio)
   const [category, setCategory] = useState(allCategory)
@@ -12,7 +12,7 @@ export const Portfolio = () => {
   const filterItems = (category) => {
     const newItems = portfolio.filter((item) => item.category === category)
     setLists(newItems)
-    if (category === "all") {
+    if (category === "todos") {
       setLists(portfolio)
       return
     }

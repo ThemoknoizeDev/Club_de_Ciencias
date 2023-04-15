@@ -113,46 +113,33 @@ export const project = [
 export const portfolio = [
   {
     id: 1,
-    cover: "../images/port/port1.jpg",
+    cover: "../images/port/port3.JPG",
     name: "Brand",
-    category: "marketing",
-    title: "Brex Logo",
+    category: "Fisica",
+    title: "2014",
   },
   {
     id: 2,
-    cover: "../images/port/port2.jpg",
+    cover: "../images/port/port2.JPG",
     name: "Brand",
-    category: "design",
-    title: "Brex Logo",
+    category: "Quimica",
+    title: "2014",
   },
   {
     id: 3,
-    cover: "../images/port/port3.jpg",
+    cover: "../images/port/port1.JPG",
     name: "Brand",
-    category: "development",
-    title: "Brex Logo",
+    category: "Astronomia",
+    title: "2015",
   },
   {
     id: 4,
-    cover: "../images/port/port4.jpg",
+    cover: "../images/port/port4.JPG",
     name: "Brand",
-    category: "marketing",
-    title: "Brex Logo",
+    category: "Matematicas",
+    title: "2015",
   },
-  {
-    id: 5,
-    cover: "../images/port/port5.jpg",
-    name: "Brand",
-    category: "design",
-    title: "Brex Logo",
-  },
-  {
-    id: 6,
-    cover: "../images/port/port6.jpg",
-    name: "Brand",
-    category: "development",
-    title: "Brex Logo",
-  },
+
 ]
 export const testimonials = [
   {
@@ -198,7 +185,7 @@ export const blog = [
     id: 3,
     title: "Thts",
     date: "Jun 27, 2022",
-    author: "Dorian Gray",
+    author: "Doay",
     desc: "L",
     cover: "./images/blog/b3.png",
   },
@@ -206,18 +193,18 @@ export const blog = [
 export const contact = [
   {
     icon: <AddLocationAltOutlined />,
-    text1: "2651 Main Street, Suit 124",
-    text2: "Seattle, WA, 98101",
+    text1: "24",
+    text2: "01",
   },
   {
     icon: <PhoneIphone />,
-    text1: "0123456789",
-    text2: "0345627891",
+    text1: "8",
+    text2: "6",
   },
   {
     icon: <EmailOutlined />,
-    text1: "hello@thetheme.io",
-    text2: "inf0@brex-theme.io",
+    text1: "ho",
+    text2: "io",
   },
 ]
 export const social = [
