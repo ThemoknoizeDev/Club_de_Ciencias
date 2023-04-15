@@ -5,13 +5,13 @@
   box-sizing: border-box;
 }
 :root {
-  --primaryBackground: #212222;
-  --secondaryBackground: #2f3030;
-  --primaryColor: #e0a80d;
-  --greyDark: #7d8792;
+  --primaryBackground: #5dc42e;
+  --secondaryBackground: #aab3b3;
+  --primaryColor: #ffc118;
+  --greyDark: #4c5763;
   --headingColor: #2d2e2e;
   --white: #fff;
-  --black: #000;
+  --black: #141414;
   --sliver: #bac8d3;
 }
 body {
@@ -129,7 +129,7 @@ section {
   position: absolute;
   top: 0;
   left: 0;
-  background-image: url("../public/images/home-bg.png");
+  background-image: url("../public/images/baner.JPG");
   background-size: cover;
   background-attachment: fixed;
   z-index: -1;
@@ -203,7 +203,7 @@ section {
   position: relative;
 }
 .hero.counter::after {
-  background-image: url("../public/images/some-facts-bg.png");
+  background-image: url("../public/images/anuncio.JPG");
   height: 50vh;
 }
 .counter h1 {
@@ -274,7 +274,7 @@ article .box:hover .overlay {
   text-align: center;
 }
 .testimonials::after {
-  background-image: url("../public/images/testimonials-bg.png");
+  background-image: url("../public/images/facts.JPG");
 }
 .testimonials .box {
   max-width: 60%;
@@ -365,7 +365,7 @@ footer i {
   }
 
   .hero::after {
-    background-image: url("../public/images/home-bg.png");
+    background-image: url("../public/images/baner.JPG");
     background-size: cover;
     object-fit: cover;
     width: 100%;

@@ -7,7 +7,7 @@ export const Contact = () => {
     <>
       <div className='contact'>
         <div className='container'>
-          <Heading title='Keep In Touch' />
+          <Heading title='ESTATUS RETIRADO' />
           <div className='content flexsb'>
             <div className='right'>
               <form>

@@ -22,7 +22,7 @@ export const Portfolio = () => {
     <>
       <article>
         <div className='container'>
-          <Heading title='Portfolio' />
+          <Heading title='Proyectos' />
           <div className='catButton'>
             {category.map((category) => (
               <button className='primaryBtn' onClick={() => filterItems(category)} data-aos='zoom-out-down'>

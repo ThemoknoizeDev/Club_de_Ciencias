@@ -13,11 +13,11 @@ export const About = () => {
                 <img src={val.cover} alt='' />
               </div>
               <div className='right' data-aos='fade-down-left'>
-                <Heading title='About Me' />
+                <Heading title='Club de Ciencias' />
                 <p>{val.desc}</p>
                 <p>{val.desc1}</p>
-                <button>Download CV</button>
-                <button className='primaryBtn'>Download CV</button>
+                <button>1994</button>
+                <button className='primaryBtn'>2016</button>
               </div>
             </>
           ))}

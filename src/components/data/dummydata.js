@@ -3,111 +3,111 @@ import { Settings, CropRotate, ViewInAr, PieChart, Code, BarChart, CloudOutlined
 export const navlink = [
   {
     url: "/",
-    text: "Home",
+    text: "INICIO",
   },
   {
     url: "/about",
-    text: "About",
+    text: "SOBRE",
   },
   {
     url: "/services",
-    text: "Services",
+    text: "DISCIPLINAS",
   },
   {
     url: "/portfolio",
-    text: "Portfolio",
+    text: "FIPAD",
   },
   {
     url: "/testimonials",
-    text: "Testimonials",
+    text: "CAMPEONES",
   },
   {
     url: "/blog",
-    text: "Blog",
+    text: "EVENTOS",
   },
   {
     url: "/contact",
-    text: "Contact",
+    text: "CONTACTO",
   },
 ]
 export const home = [
   {
-    text: "HELLO I'M",
-    name: "ALAMIN MUSA",
-    post: "WEB DESIGNER",
-    design: "UI / UX DESIGNER",
-    desc: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+    text: "HOLA SOY EL AMIGO Y MAESTRO",
+    name: "MEMOSKHY",
+    post: "FUNDADOR DEL CLUB DE CIENCIAS",
+    design: "ME DEDIQUE A CULTIVAR TALENTOS POR MAS DE 30 AÑOS",
+    desc: "SOY UN CONVECIDO DEL PODER DE  LA DOCENCIA PARA TRANSFORMAR LA VIDA DE LAS PERSONAS.",
   },
 ]
 export const about = [
   {
-    desc: "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur",
-    desc1: "magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor si voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur",
-    cover: "./images/man.png",
+    desc: "Ssequuntur",
+    desc1: "magni dotur",
+    cover: "./images/man2.png",
   },
 ]
 export const services = [
   {
     id: 1,
     icon: <Settings />,
-    title: "Creative Design",
-    desc: "Lorem Ipsum simply text of the printing and type setting industry when an unknown printing simply",
+    title: "Quimica",
+    desc: "printing simply",
   },
   {
     id: 2,
     icon: <CropRotate />,
-    title: "Clean Code",
-    desc: "Lorem Ipsum simply text of the printing and type setting industry when an unknown printing simply",
+    title: "Fisica",
+    desc: "Loremmply",
   },
   {
     id: 3,
     icon: <ViewInAr />,
-    title: "Responsive Design",
-    desc: "Lorem Ipsum simply text of the printing and type setting industry when an unknown printing simply",
+    title: "Astronomia",
+    desc: "Loreg simply",
   },
   {
     id: 4,
     icon: <PieChart />,
-    title: "Material UI	",
-    desc: "Lorem Ipsum simply text of the printing and type setting industry when an unknown printing simply",
+    title: "Matematicas",
+    desc: "Losimply",
   },
   {
     id: 5,
     icon: <Code />,
-    title: "Material UI Icons",
-    desc: "Lorem Ipsum simply text of the printing and type setting industry when an unknown printing simply",
+    title: "Biologia",
+    desc: "Loremimply",
   },
   {
     id: 6,
     icon: <BarChart />,
-    title: "Awesome Support",
-    desc: "Lorem Ipsum simply text of the printing and type setting industry when an unknown printing simply",
+    title: "Asesorias",
+    desc: "Lorly",
   },
 ]
 export const project = [
   {
     id: 1,
     icon: <CloudOutlined />,
-    num: "89",
-    title: "HAPPY CLIENTS",
+    num: "57",
+    title: "Medallero",
   },
   {
     id: 2,
     icon: <FavoriteBorder />,
     num: "231",
-    title: "PROJECTS COMPLEATED",
+    title: "Reconocimientos",
   },
   {
     id: 3,
     icon: <Public />,
-    num: "108",
-    title: "FILES DOWNLOADED",
+    num: "580",
+    title: "Ediciones del club",
   },
   {
     id: 4,
     icon: <PersonOutlined />,
-    num: "1446",
-    title: "LIENS OF CODE",
+    num: "446",
+    title: "Miembros",
   },
 ]
 export const portfolio = [
@@ -157,49 +157,49 @@ export const portfolio = [
 export const testimonials = [
   {
     id: 1,
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam porttitordapibus dictum.Fusce faucibus ligula scelerisque, eleifend turpis in",
+    text: "Lor",
     image: "./images/testimonials/team-1.png",
-    name: "Alamin Musa",
-    post: "Front End Developer",
+    name: "Carlos Mungia",
+    post: "Ingeniero Quimico ",
   },
   {
     id: 2,
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam porttitordapibus dictum.Fusce faucibus ligula scelerisque, eleifend turpis in",
+    text: "Ln",
     image: "./images/testimonials/team-2.png",
-    name: "Alex Ander",
-    post: "Back End Developer",
+    name: "Angel Urit Sanchez Giorge",
+    post: "Ingeniero en Mecatronica",
   },
   {
     id: 3,
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam porttitordapibus dictum.Fusce faucibus ligula scelerisque, eleifend turpis in",
+    text: "Loiquin",
     image: "./images/testimonials/team-3.png",
-    name: "GorkCoder",
-    post: "React Developer",
+    name: "Brayan Ramirez camacho",
+    post: "Cientifio de Datos",
   },
 ]
 export const blog = [
   {
     id: 1,
-    title: "Master These Awesome",
+    title: "Mae",
     date: "Jun 27, 2022",
-    author: "Dorian Gray",
-    desc: "Lorem Ipsum has been standard. Lorem Ipsum is simply text of the printing and typesetting industry. Lorem Ipsum has been",
+    author: "Dy",
+    desc: "Lon",
     cover: "./images/blog/b1.png",
   },
   {
     id: 2,
-    title: "Best Design Items to Appeal",
+    title: "Beeal",
     date: "Jun 27, 2022",
-    author: "Dorian Gray",
-    desc: "Lorem Ipsum has been standard. Lorem Ipsum is simply text of the printing and typesetting industry. Lorem Ipsum has been",
+    author: "Doay",
+    desc: "Lorn",
     cover: "./images/blog/b2.png",
   },
   {
     id: 3,
-    title: "The 20 Best Lightroom Presets",
+    title: "Thts",
     date: "Jun 27, 2022",
     author: "Dorian Gray",
-    desc: "Lorem Ipsum has been standard. Lorem Ipsum is simply text of the printing and typesetting industry. Lorem Ipsum has been",
+    desc: "L",
     cover: "./images/blog/b3.png",
   },
 ]
