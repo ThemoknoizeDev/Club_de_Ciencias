@@ -30,3 +30,6 @@ export const Hero = () => {
     </>
   )
 }
+
+//git config --global user.email "a217213318@unison.mx"
+//git config --global user.name "ErikFantomex"
