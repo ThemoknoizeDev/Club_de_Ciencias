@@ -50,7 +50,7 @@ export const about = [
   {
     desc: "",
     desc1: "",
-    cover: "./images/man2.png",
+
   },
 ]
 export const services = [
@@ -95,25 +95,25 @@ export const services = [
 export const project = [
   {
     id: 1,
-    icon: <CloudOutlined />,
+    icon: <ScienceIcon />,
     num: "57",
     title: "Medallero",
   },
   {
     id: 2,
-    icon: <FavoriteBorder />,
+    icon: <FunctionsIcon />,
     num: "231",
     title: "Reconocimientos",
   },
   {
     id: 3,
-    icon: <Public />,
+    icon: <SchoolIcon />,
     num: "580",
     title: "Ediciones del club",
   },
   {
     id: 4,
-    icon: <PersonOutlined />,
+    icon: <SchoolIcon />,
     num: "146",
     title: "Miembros",
   },
