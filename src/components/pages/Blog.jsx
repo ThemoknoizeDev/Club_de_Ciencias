@@ -7,8 +7,9 @@ export const Blog = () => {
     <>
       <section className='blog'>
         <div className='container'>
-          <Heading title='EVENTOS' />
+          <Heading title='TABLA PERIODICA' />
           <div className='content grid3'>
+
             {blog.map((item) => (
               <div className='box' data-aos='flip-left'>
                 <div className='img' data-aos='fade-up'>
@@ -17,7 +18,7 @@ export const Blog = () => {
                 <div className='text'>
                   <h3 data-aos='fade-right'>{item.title}</h3>
                   <label data-aos='fade-left'>
-                    By {item.author} {item.date}
+                    tabla {item.author} {item.date}
                   </label>
                   <p data-aos='fade-up-right'>{item.desc}</p>
                 </div>
@@ -29,3 +30,13 @@ export const Blog = () => {
     </>
   )
 }
+
+function TablaPeriodica() {
+  return (
+    <div>
+      <iframe src={`${process.env.PUBLIC_URL}/tabla/index.html`} width="420%" height="600" />
+    </div>
+  );
+}
+
+export default TablaPeriodica;
