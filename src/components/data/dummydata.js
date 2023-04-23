@@ -152,24 +152,24 @@ export const portfolio = [
 export const testimonials = [
   {
     id: 1,
-    text: "",
+    text: "Formo un gran grupo de jóvenes, unidos y motivados por triunfar en las ciencias.",
     image: "./images/testimonials/team1.jpg",
     name: "Carlos Mungia",
     post: "Ingeniero Quimico ",
   },
   {
     id: 2,
-    text: "",
+    text: "Nos dio las herramientas necesarias para cumplir todas nuestras metas ",
     image: "./images/testimonials/team2.JPG",
     name: "Angel Urit Sanchez Giorge",
     post: "Ingeniero en Mecatronica",
   },
   {
     id: 3,
-    text: "",
+    text: "El Club de Ciencias me preparo para perseguir retos nacionales e internacionales. ",
     image: "./images/testimonials/team3.JPG",
     name: "Brayan Ramirez camacho",
-    post: "Cientifio de Datos",
+    post: "Cientifico de Datos",
   },
 ]
 

@@ -16,7 +16,7 @@ export const About = () => {
                 <Heading title='Club de Ciencias' />
                 <p>{val.desc}</p>
                 <p>{val.desc1}</p>
-                <button>1994</button>
+                <button>1986</button>
                 <button className='primaryBtn'>2016</button>
               </div>
             </>
