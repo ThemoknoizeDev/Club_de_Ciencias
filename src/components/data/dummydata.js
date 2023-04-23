@@ -48,8 +48,8 @@ export const home = [
 ]
 export const about = [
   {
-    desc:"C0M0 SABEMOS LA EDCACION ES UN FENOMENO MUY COMPLEJO DONDE SE INVOLUCRN DIFERENTES TIPOS DE ASPECTOS, COMO BIOLOGIGOS, PSICOLOGOCOS, FAMILIARES, ECONOMICOS Y SOCIALES; ",
-    desc1:"ENTONCES QUIENES SECDEDICAN A DESARROLLAR UN PROCESO DE ENSENANZA APRENDIJE ENCUALQUIER AREA SEL CONOCIMIENTO DEBEN DE CONTR CON LA EXPERIENCIA, CONOCIMIENTO DE LA PERSONALIDAD DE SUS ALUMNOS, Y ALGO MUY IMPORTANE TENER Y DESARROLLAR UNA METODOLOGIA ADECUADA EFICAZ Y COMPROBADA PARA ENFRENTAR LAS DIFERENTES SITUACIONES QUE SE PRESENTANA DIARIO DENTRE DEL AULA O EN EL INTERIOR DE LOS LABORATORIOS. ",
+    desc:"Como sabemos, la educación es un fenómeno muy complejo que involucra diferentes aspectos, como biológicos, psicológicos, familiares, económicos y sociales. Por lo tanto, quienes se dedican a desarrollar un proceso de enseñanza-aprendizaje en cualquier área del conocimiento deben contar con la experiencia, conocimiento de la personalidad de sus alumnos y algo muy importante: tener y desarrollar una metodología adecuada, eficaz y comprobada para enfrentar las diferentes situaciones que se presentan a diario dentro del aula o en el interior de los laboratorios. ",
+    
     desc2: " ",
 
   },
